@@ -1,8 +1,33 @@
-# Systems-and-methods-of-decision-making
+# Systems and Methods of Decision Making: Laboratory Works 
+--
+This repository contains a set of laboratory works for the **"Systems and Methods of Decision Making"** course. The materials are aimed at practical mastery of quantitative, analytical, and expert data analysis methods to justify optimal management decisions.
 
+The course covers tasks of multi-criteria selection, alternative ranking, expert evaluation analysis, risk management, resource optimization, and mathematical modeling.
+
+## 🛠 Tools and Technologies / Інструменти та технології
+* **Microsoft Excel / Google Sheets (Google Таблиці)**
+
+### 📚 Course Content and Lab Descriptions
 
 ---
+
+# Системи та методи прийняття рішень: Лабораторні роботи
+
+Цей репозиторій містить комплект лабораторних робіт з дисципліни **«Системи та методи прийняття рішень»**. Матеріали спрямовані на практичне освоєння кількісних, аналітичних та експертних методів аналізу даних для обґрунтування оптимальних управлінських рішень.
+
+У рамках курсу розглядаються задачі багатокритеріального вибору, ранжирування альтернатив, аналізу експертних оцінок, врахування ризиків, оптимізації ресурсів та математичного моделювання.
+
+### 📚 Зміст та коротка характеристика робіт
+
+------
 Аліна Олегівна Боцу - Завдання. Теорія голосування 
+#### 🔹 Lab 1: Analysis of Expert Estimates and Pairwise Comparisons
+* **Core:** Assessing the consistency of expert opinions and processing primary data.
+* **Key Tasks:** Calculating the concordance coefficient, building a pairwise comparison matrix, and determining the final weights of criteria or alternatives.
+
+#### 🔹 Лабораторна робота №1: Аналіз експертних оцінок та попарні порівняння
+* **Суть роботи:** Оцінка узгодженості експертних думок та обробка первинних даних.
+* **Основні завдання:** Розрахунок коефіцієнта конкордації, побудова матриці попарних порівнянь та визначення підсумкових ваг критеріїв або альтернатив.
 
 <img width="853" height="497" alt="image" src="https://github.com/user-attachments/assets/6357b1d8-85c2-4d3f-8a0f-b17c41c8256d" />
 
@@ -31,6 +56,14 @@
 <img width="645" height="62" alt="image" src="https://github.com/user-attachments/assets/34cf57c5-39ae-4a89-8e22-7c28002ba7a7" />
 
 ---
+#### 🔹 Lab 4: Multi-criteria Optimization and Utility Functions
+* **Core:** Finding a compromise solution when multiple objective functions exist.
+* **Key Tasks:** Constructing the Pareto set, normalizing heterogeneous indicators, and calculating the total utility of alternatives.
+
+#### 🔹 Лабораторна робота №4: Багатокритеріальна оптимізація та функції корисності
+* **Суть роботи:** Пошук компромісного рішення за наявності кількох цільових функцій.
+* **Основні завдання:** Побудова множини Парето, нормалізація різнорідних показників та розрахунок сумарної корисності альтернатив.
+
 Аліна Олегівна Боцу - Завдання. БАГАТОКРИТЕРІАЛЬНА ОПТИМІЗАЦІЯ
 <img width="831" height="273" alt="image" src="https://github.com/user-attachments/assets/c333c27f-7568-403f-b072-26f2b673d50a" />
 
@@ -75,9 +108,19 @@
 <img width="1107" height="632" alt="image" src="https://github.com/user-attachments/assets/8f3d513d-223c-4328-9702-baf7acf377f4" />
 
 ---
+
+#### 🔹 Lab 3: Decision Making Under Uncertainty and Risk
+* **Core:** Evaluating decision options in unknown or probabilistic environments.
+* **Key Tasks:** Applying classic decision criteria (Wald, Savage, Hurwicz, Laplace) and building decision trees to select the optimal strategy.
+
+#### 🔹 Лабораторна робота №3: Прийняття рішень в умовах невизначеності та ризику
+* **Суть роботи:** Оцінка варіантів рішень в умовах невідомого або ймовірнісного зовнішнього середовища.
+* **Основні завдання:** Застосування класичних критеріїв прийняття рішень (Вальда, Севіджа, Гурвіца, Лапласа) та побудова дерев рішень для вибору оптимальної стратегії.
+
 Аліна Олегівна Боцу - Завдання. Нечітко визначена мета, нечітко визначені обмеження
 
 аркуш 1 
+
 <img width="859" height="316" alt="image" src="https://github.com/user-attachments/assets/7f839fd1-ce31-41fd-a36d-aeca757f5ab7" />
 
 аркуш 2
@@ -103,6 +146,15 @@
 <img width="1115" height="362" alt="image" src="https://github.com/user-attachments/assets/f64e6ec7-6c1d-41b8-a3b2-f13621303d41" />
 
 ---
+
+#### 🔹 Lab 5: Resource Modeling and Optimization
+* **Core:** Building mathematical models for resource allocation and scenario development.
+* **Key Tasks:** Using linear and integer programming methods to maximize effects or minimize costs under given constraints.
+
+#### 🔹 Лабораторна робота №5: Моделювання та оптимізація ресурсів
+* **Суть роботи:** Побудова математичних моделей розподілу ресурсів та сценаріїв розвитку подій.
+* **Основні завдання:** Використання методів лінійного та цілочисельного програмування для максимізації ефекту або мінімізації витрат при заданих обмеженнях.
+
 Аліна Олегівна Боцу - Завдання Критерії
 
 <img width="837" height="331" alt="image" src="https://github.com/user-attachments/assets/99608e64-b650-45e7-a10b-8f0ba9af5fe9" />
@@ -115,6 +167,15 @@
 <img width="522" height="29" alt="image" src="https://github.com/user-attachments/assets/956c9f21-373a-4005-bf4f-cd3cf2ae103d" />
 
 ---
+
+#### 🔹 Lab 2: Analytic Hierarchy Process (AHP)
+* **Core:** Building a multi-level hierarchical model for complex decision-making.
+* **Key Tasks:** Computing eigenvectors, calculating consistency indices, and determining the global priority of alternatives considering conflicting factors.
+
+#### 🔹 Лабораторна робота №2: Метод аналізу ієрархій (МАІ / AHP)
+* **Суть роботи:** Побудова багаторівневої ієрархічної моделі для прийняття складних рішень.
+* **Основні завдання:** Обчислення векторів власних значень, розрахунок індексів узгодженості та визначення глобального пріоритету альтернатив з урахуванням суперечливих факторів.
+  
 Аліна Олегівна Боцу - Метод аналізу ієрархій
 <img width="722" height="247" alt="image" src="https://github.com/user-attachments/assets/d9ef91ef-2fa7-48aa-ade9-67614db614ec" />
 
