@@ -1,5 +1,5 @@
 # Systems and Methods of Decision Making: Laboratory Works 
---
+
 This repository contains a set of laboratory works for the **"Systems and Methods of Decision Making"** course. The materials are aimed at practical mastery of quantitative, analytical, and expert data analysis methods to justify optimal management decisions.
 
 The course covers tasks of multi-criteria selection, alternative ranking, expert evaluation analysis, risk management, resource optimization, and mathematical modeling.
