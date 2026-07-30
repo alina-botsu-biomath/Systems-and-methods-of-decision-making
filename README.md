@@ -7,8 +7,6 @@ The course covers tasks of multi-criteria selection, alternative ranking, expert
 ## 🛠 Tools and Technologies / Інструменти та технології
 * **Microsoft Excel / Google Sheets (Google Таблиці)**
 
-### 📚 Course Content and Lab Descriptions
-
 ---
 
 # Системи та методи прийняття рішень: Лабораторні роботи
@@ -17,7 +15,7 @@ The course covers tasks of multi-criteria selection, alternative ranking, expert
 
 У рамках курсу розглядаються задачі багатокритеріального вибору, ранжирування альтернатив, аналізу експертних оцінок, врахування ризиків, оптимізації ресурсів та математичного моделювання.
 
-### 📚 Зміст та коротка характеристика робіт
+### 📚 Course Content and Lab Descriptions( Зміст та коротка характеристика робіт)
 
 ------
 Аліна Олегівна Боцу - Завдання. Теорія голосування 
