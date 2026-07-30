@@ -1,5 +1,7 @@
 # Systems-and-methods-of-decision-making
 
+
+---
 Аліна Олегівна Боцу - Завдання. Теорія голосування 
 
 <img width="853" height="497" alt="image" src="https://github.com/user-attachments/assets/6357b1d8-85c2-4d3f-8a0f-b17c41c8256d" />
@@ -28,6 +30,7 @@
 
 <img width="645" height="62" alt="image" src="https://github.com/user-attachments/assets/34cf57c5-39ae-4a89-8e22-7c28002ba7a7" />
 
+---
 Аліна Олегівна Боцу - Завдання. БАГАТОКРИТЕРІАЛЬНА ОПТИМІЗАЦІЯ
 <img width="831" height="273" alt="image" src="https://github.com/user-attachments/assets/c333c27f-7568-403f-b072-26f2b673d50a" />
 
@@ -71,6 +74,7 @@
 <img width="1124" height="631" alt="image" src="https://github.com/user-attachments/assets/08021385-4145-474c-93fd-31e59545afcd" />
 <img width="1107" height="632" alt="image" src="https://github.com/user-attachments/assets/8f3d513d-223c-4328-9702-baf7acf377f4" />
 
+---
 Аліна Олегівна Боцу - Завдання. Нечітко визначена мета, нечітко визначені обмеження
 
 аркуш 1 
@@ -98,6 +102,7 @@
 
 <img width="1115" height="362" alt="image" src="https://github.com/user-attachments/assets/f64e6ec7-6c1d-41b8-a3b2-f13621303d41" />
 
+---
 Аліна Олегівна Боцу - Завдання Критерії
 
 <img width="837" height="331" alt="image" src="https://github.com/user-attachments/assets/99608e64-b650-45e7-a10b-8f0ba9af5fe9" />
@@ -109,6 +114,7 @@
 <img width="1194" height="284" alt="image" src="https://github.com/user-attachments/assets/2272c503-7a84-42f9-a59e-7a52f388fec7" />
 <img width="522" height="29" alt="image" src="https://github.com/user-attachments/assets/956c9f21-373a-4005-bf4f-cd3cf2ae103d" />
 
+---
 Аліна Олегівна Боцу - Метод аналізу ієрархій
 <img width="722" height="247" alt="image" src="https://github.com/user-attachments/assets/d9ef91ef-2fa7-48aa-ade9-67614db614ec" />
 
